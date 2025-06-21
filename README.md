@@ -4,9 +4,9 @@ Bienvenue dans mon dépôt Git de la **Piscine 42**, session **Été 2024** à *
 Un mois de code intensif, de `segfault`, de `norminette`, de rushs du week-end... et de gros progrès 💻💥
 
 Ce dépôt contient tous les projets réalisés pendant la piscine :
-➡️ `C00` à `C08`
-➡️ Tous les `Rush`
-➡️ Le projet **BSQ**
+- `C00` à `C08`
+- Tous les `Rush`
+- Le projet **BSQ**
 
 
 ---
